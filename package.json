@@ -1,0 +1,23 @@
+{
+  "name": "prettyday",
+  "version": "1.0.0",
+  "description": "pretty print a new.Date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heclack/prettydate.git"
+  },
+  "keywords": [
+    "date",
+    "format"
+  ],
+  "author": "sdcs students",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heclack/prettydate/issues"
+  },
+  "homepage": "https://github.com/heclack/prettydate#readme"
+}
